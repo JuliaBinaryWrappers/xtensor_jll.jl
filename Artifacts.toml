@@ -3,4 +3,4 @@ git-tree-sha1 = "ba98bb8f587e8e97a08664296092a86d1924a4cc"
 
     [[xtensor.download]]
     sha256 = "d948be00ad088485c64028f46774875071935416a66ae170f3fffcc449fec6f4"
-    url = "https://github.com/JuliaBinaryWrappers/xtensor_jll.jl/releases/download/xtensor-v0.25.0+0/xtensor.v0.25.0.any.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/xtensor_jll.jl/releases/download/xtensor-v0.25.0+1/xtensor.v0.25.0.any.tar.gz"
